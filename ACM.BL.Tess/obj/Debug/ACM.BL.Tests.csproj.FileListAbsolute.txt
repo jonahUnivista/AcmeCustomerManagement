@@ -1,0 +1,17 @@
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\ACM.BL.Tess.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\ACM.BL.Tess.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\ACM.BL.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\ACM.Common.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\ACM.BL.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\bin\Debug\ACM.Common.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\obj\Debug\ACM.BL.Tests.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\obj\Debug\ACM.BL.Tests.csproj.CopyComplete
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\obj\Debug\ACM.BL.Tess.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.BL.Tess\obj\Debug\ACM.BL.Tess.pdb

@@ -1,0 +1,5 @@
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Common\bin\Debug\ACM.Common.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Common\bin\Debug\ACM.Common.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Common\obj\Debug\ACM.Common.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Common\obj\Debug\ACM.Common.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Common\obj\Debug\ACM.Common.pdb

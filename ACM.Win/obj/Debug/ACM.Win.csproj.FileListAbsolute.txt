@@ -1,0 +1,15 @@
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.exe.config
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.exe
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Win.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Common.dll
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.BL.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\bin\Debug\ACM.Common.pdb
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csprojAssemblyReference.cache
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.OrderWin.resources
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.Pedometer.resources
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.Properties.Resources.resources
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csproj.GenerateResource.cache
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.csproj.CopyComplete
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.exe
+C:\Users\UNIVISTA-IT\source\repos\AcmeCustomerManagement\ACM.Win\obj\Debug\ACM.Win.pdb
